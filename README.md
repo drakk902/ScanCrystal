@@ -4,7 +4,7 @@ Scanner Crystal Black
 
 *Escaner m3u*
 
-git clone https://github.com/drakk902/ScanCrystal
+git clone https://github.com/drakk902/ScanCrystal. git
 
 cd ScanCrystal
 
